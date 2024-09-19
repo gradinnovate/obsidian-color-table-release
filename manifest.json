@@ -1,0 +1,11 @@
+{
+	"id": "color-table-plugin",
+	"name": "Color Table Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.0.0",
+	"description": "An Obsidian plugin for creating and displaying colorful tables with multiple theme options.",
+	"author": "GradInnovate Inc.",
+	"authorUrl": "https://gradinnovate.github.io/obsidian-plugins-page/",
+	"fundingUrl": "https://www.buymeacoffee.com/gradinnovate",
+	"isDesktopOnly": true
+}
